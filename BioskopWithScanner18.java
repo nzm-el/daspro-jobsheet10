@@ -14,7 +14,7 @@ public class BioskopWithScanner18 {
             System.out.println("3. Exit");
             System.out.print("Pilih opsi (1-3): ");
             int pilihan = sc.nextInt();
-            sc.nextLine(); 
+            sc.nextLine();  
 
             switch (pilihan) {
                 case 1:
